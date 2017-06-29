@@ -627,6 +627,7 @@ class AmazonBrowseNode(LXMLWrapper):
         return children
 
 
+# ruiaylin add some new propertys
 class AmazonProduct(LXMLWrapper):
     """A wrapper class for an Amazon product.
     """
